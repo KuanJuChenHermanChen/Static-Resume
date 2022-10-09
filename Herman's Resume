@@ -64,7 +64,6 @@
         p {
             color: #666666; 
         }
-        /* Personal Info */
         .avatar {
             text-align: center;  /* 內容置中 */
         }
@@ -107,6 +106,7 @@
         .fa-building, .fa-calendar-days {
             margin-right: 5px;  /* 圖示與文字間隔 (小) */
         }
+
     </style>
 </head>
 <body>
@@ -129,7 +129,7 @@
                 <img class="avatar-img" src="	https://randomuser.me/api/portraits/lego/6.jpg" alt="">
             </div>
               <h1 class="name">
-                Herman Chen
+                陳冠儒
               </h1>
             <div class="social-media">
                 <a class="social-media-link" href="https://www.facebook.com/chentt.ro" target="_blank">
@@ -166,7 +166,7 @@
                         <span class="duration"><i class="fa-solid fa-calendar-days"></i>2021.08 - 2022.01</span>
                     </h3>
                     <p class="education-description">
-                        相關課程: (HTML,CSS,JS), Python(Flask, Web-crawler, Scikit-learn), MySQL, Hadoop, Spark, d3.js
+                        相關課程: Linux, (HTML,CSS,JS), Python(Flask, Web-crawler, Scikit-learn), MySQL, Hadoop, Spark, d3.js
                     </p>
                 </div>
                 <div class="education">
@@ -188,14 +188,14 @@
             <br>
             <div class="experience">
                 <div class="experience-item">
-                    <h3 class="job-title">英丰寶資訊｜工程師
+                    <h3 class="job-title">英丰寶資訊股份有限公司｜工程師
                         <span class="duration"><i class="fa-solid fa-calendar-days"></i>2022.04 - 2023.04</span>
                     </h3>
                     <ol>
                         <li>網路爬蟲: 使用Python(Requests, Selenium, Action-chains)爬取各種網站資訊</li>
                         <li>ETL: 使用Python, Pentaho打造資料流</li>
                         <li>資料庫管理: 管理 MySQL, MSSQL, MongoDB的經驗，並熟悉SQL處理資料</li>
-                        <li>寵物網站建置與維護: JQuery, Node.js</li>
+                        <li>網站建置與維護: JQuery, Node.js</li>
                         <li>資料視覺化: QuickCORE</li>
                     </ol>
                 </div>
@@ -208,13 +208,12 @@
         </section>
         <section class="recommendation-section">
             <h2 class="self-recommendation">自我推薦</h2>
-            <br>
             <div class="recommendation">
                 <p>
-                    半路轉職的工程師，
+                    我是Herman，一個當了七年兵，半路轉職的工程師，別人口中的斜槓青年，因為對投資有興趣，想嘗試用大數據來預測市場，誤闖進工程師的領域，目前專職在網路爬蟲、資料處理、視覺化與網頁開發．平常很喜歡嘗試新技術(其實所有東西對我來我都很新鮮ＸＤ)，下一階段想往雲端技術發展，目前也正在學習中．樂於分享自己的投資經驗，也希望能找到喜歡追求創意與不斷進步的團隊．
                 </p>
             </div>
         </section>
     </main>
 </body>
-</html>
+</html
